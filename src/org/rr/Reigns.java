@@ -7,5 +7,7 @@ public void rr(int id) {
 public static void main(String[] args) {
 	Reigns a=new Reigns();
 	a.rr(10);
+	System.out.println("Day 1 completed");
+	
 }
 }
